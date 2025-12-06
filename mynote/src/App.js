@@ -64,7 +64,7 @@ function App() {
   return (
     <div className="app-background">
       <div className="note-card">
-        <h2 className="note-title">한 줄 노트aaa</h2>
+        <h2 className="note-title">한 줄 노트bbb</h2>
 
         <div className="note-input-row">
           <input
@@ -130,3 +130,4 @@ function App() {
 }
 
 export default App;
+
